@@ -112,4 +112,4 @@ under the Actions tab.
 ## Author
 **Iasia Cooper** — QA Engineer
 [LinkedIn](https://linkedin.com/in/iasia-cooper-30b433225) •
-[GitHub](https://github.com/I
+[GitHub](https://github.com/IasiaCoop)
